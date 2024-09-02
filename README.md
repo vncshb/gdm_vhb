@@ -1,4 +1,5 @@
 # gdm_vhb
+**DEMONSTRATIVE ONLY, NOT FUNCTIONAL**
 This project is a food delivery application (like iFood).
 Technologies used:
 - expo v51.0.31
