@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165791152908",
+    "project_id": "gdmvhb",
+    "storage_bucket": "gdmvhb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165791152908:android:10f7cf3bedcfaf4ae26729",
+        "android_client_info": {
+          "package_name": "com.gdmvhb.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Aqryi-u6sw3QthFvlGgYOauqnf19wnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
